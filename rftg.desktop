@@ -14,4 +14,4 @@ Icon=/usr/share/rftg/rftg.svg
 StartupNotify=false
 
 Type=Application
-Categories=Game;StrategyGame
+Categories=Game;CardGame
